@@ -29,6 +29,7 @@ figcaption {
 }
 
 #featured-property p {
+  position: relative;
   text-align: center;
   width: 800px;
 }
